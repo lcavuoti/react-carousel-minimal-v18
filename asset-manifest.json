@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/react-carousel-minimal-v18/static/css/main.073c9b0a.css",
-    "main.js": "/react-carousel-minimal-v18/static/js/main.dff33895.js",
+    "main.css": "/react-carousel-minimal-v18/static/css/main.86557b30.css",
+    "main.js": "/react-carousel-minimal-v18/static/js/main.904cac25.js",
     "static/js/787.5f2b619c.chunk.js": "/react-carousel-minimal-v18/static/js/787.5f2b619c.chunk.js",
-    "static/media/logo.svg": "/react-carousel-minimal-v18/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/react-carousel-minimal-v18/index.html",
-    "main.073c9b0a.css.map": "/react-carousel-minimal-v18/static/css/main.073c9b0a.css.map",
-    "main.dff33895.js.map": "/react-carousel-minimal-v18/static/js/main.dff33895.js.map",
+    "main.86557b30.css.map": "/react-carousel-minimal-v18/static/css/main.86557b30.css.map",
+    "main.904cac25.js.map": "/react-carousel-minimal-v18/static/js/main.904cac25.js.map",
     "787.5f2b619c.chunk.js.map": "/react-carousel-minimal-v18/static/js/787.5f2b619c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.dff33895.js"
+    "static/css/main.86557b30.css",
+    "static/js/main.904cac25.js"
   ]
 }
