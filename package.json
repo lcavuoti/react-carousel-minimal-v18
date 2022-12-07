@@ -1,7 +1,24 @@
 {
   "name": "react-carousel-minimal-gh-pages-v18",
+  "description": "Responsive, minimal and customizable Carousel Component for React Projects.",
+  "author": {
+    "name": "Luigi Cavuoti",
+    "url": "https://lcavuoti.github.io/react-carousel-minimal-v18"
+  },
+  "homepage": "https://lcavuoti.github.io/react-carousel-minimal-v18",
   "version": "0.1.0",
   "private": true,
+  "license": "MIT",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "files": [
+    "build",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lcavuoti/react-carousel-minimal-v18.git"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -15,6 +32,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+    "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
