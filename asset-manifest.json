@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-carousel-minimal-v18/static/css/main.86557b30.css",
-    "main.js": "/react-carousel-minimal-v18/static/js/main.904cac25.js",
+    "main.js": "/react-carousel-minimal-v18/static/js/main.e111723f.js",
     "static/js/787.5f2b619c.chunk.js": "/react-carousel-minimal-v18/static/js/787.5f2b619c.chunk.js",
     "index.html": "/react-carousel-minimal-v18/index.html",
     "main.86557b30.css.map": "/react-carousel-minimal-v18/static/css/main.86557b30.css.map",
-    "main.904cac25.js.map": "/react-carousel-minimal-v18/static/js/main.904cac25.js.map",
+    "main.e111723f.js.map": "/react-carousel-minimal-v18/static/js/main.e111723f.js.map",
     "787.5f2b619c.chunk.js.map": "/react-carousel-minimal-v18/static/js/787.5f2b619c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.86557b30.css",
-    "static/js/main.904cac25.js"
+    "static/js/main.e111723f.js"
   ]
 }
